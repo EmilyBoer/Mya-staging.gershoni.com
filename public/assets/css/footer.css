@@ -1,0 +1,112 @@
+.section-seven {
+  background-color: #3581ef;
+  color: white;
+  font-family: 'Nunito', sans-serif;
+  color: white; }
+  .section-seven .top-group {
+    padding-left: 50px;
+    padding-top: 35px;
+    padding-bottom: 35px; }
+    .section-seven .top-group h1 {
+      font-size: 40px;
+      margin: 0px;
+      padding: 0px;
+      font-weight: 800;
+      line-height: 1.2; }
+    .section-seven .top-group p {
+      margin-top: 10px;
+      margin-bottom: 0rem;
+      font-weight: 100;
+      font-size: 16px;
+      line-height: 1.2; }
+    .section-seven .top-group h5.contact-us {
+      letter-spacing: 1px;
+      padding-bottom: 10px;
+      margin-top: 10px;
+      font-weight: 800; }
+    .section-seven .top-group .more-options {
+      padding-top: 25px;
+      letter-spacing: 1px;
+      font-weight: 700; }
+      .section-seven .top-group .more-options .fa-chevron-right {
+        font-size: 14px; }
+    .section-seven .top-group .contact {
+      padding-left: 50px; }
+    .section-seven .top-group a.btn, .section-seven .top-group a.btn:hover {
+      background-color: #3581ef;
+      color: white;
+      border: solid white 2px;
+      border-radius: 0px;
+      text-transform: uppercase;
+      font-size: 14px;
+      font-weight: 200;
+      margin-top: 25px;
+      text-decoration: none; }
+    .section-seven .top-group p.sales {
+      line-height: 1.3;
+      margin-top: 0px;
+      font-weight: 700;
+      font-size: 14px; }
+    .section-seven .top-group p.sales-email {
+      line-height: 1.3;
+      margin-top: 0px;
+      font-size: 14px; }
+    .section-seven .top-group p.sales-number {
+      line-height: 1.3;
+      margin-top: 0px;
+      font-size: 14px; }
+  .section-seven .bottom-group {
+    background-color: #3581ef;
+    color: white;
+    border-top: white solid 2px;
+    margin-left: 50px;
+    margin-right: 50px;
+    height: 58px; }
+    .section-seven .bottom-group .fa-linkedin-in, .section-seven .bottom-group .fa-facebook-f, .section-seven .bottom-group .fa-instagram, .section-seven .bottom-group .fa-twitter {
+      font-size: 15px;
+      color: white; }
+    .section-seven .bottom-group p {
+      margin-top: 0;
+      margin-bottom: 0rem;
+      font-weight: 100;
+      font-size: 16px;
+      line-height: 1.2;
+      color: white; }
+  .section-seven ul li {
+    display: inline;
+    list-style: none;
+    color: white;
+    font-size: 12px;
+    font-weight: 100;
+    letter-spacing: .5px;
+    color: white; }
+  .section-seven .footer-group-left {
+    padding-top: 15px;
+    text-align: left;
+    color: white; }
+    .section-seven .footer-group-left p {
+      color: white;
+      font-weight: 100;
+      letter-spacing: .3px;
+      font-size: 12px; }
+    .section-seven .footer-group-left .address {
+      padding-left: 0px;
+      padding-right: 0px; }
+  .section-seven .footer-group-right {
+    margin-top: -7px;
+    text-align: right;
+    color: white; }
+    .section-seven .footer-group-right li {
+      padding-right: 10px;
+      padding-left: 10px;
+      font-weight: 100;
+      letter-spacing: .5px; }
+    .section-seven .footer-group-right a {
+      color: white; }
+  .section-seven .all-rights-reserved {
+    text-align: right;
+    font-size: 9px;
+    padding-right: 70px;
+    padding-bottom: 20px;
+    font-weight: 100;
+    letter-spacing: .5px; }

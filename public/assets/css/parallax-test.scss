@@ -1,0 +1,147 @@
+  
+/*section 2*/
+
+
+.section-two{
+    background-image: url("../img/layer-1.jpg");
+    height: 600px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+    overflow: hidden;
+    font-family: nunitoBlack;
+
+}
+
+/*../public/assets/img/layer-1.jpg*/
+
+
+ .phone-container{
+    margin-left: 50%;
+    margin-top: -50%;
+}
+
+.phone-container img{
+    width:214px;
+}
+
+.image-1{
+position: fixed;
+}
+
+
+.lead{
+    font-size:16px;
+}
+
+#one{
+    background-image: url("../img/image-one.png");
+    height: 600px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+    overflow: hidden;
+    transition-timing-function: ease;
+}
+
+#two{
+    background-image: url("../img/image-two.png");
+    height: 600px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+    overflow: hidden;
+
+}
+
+#three{
+    background-image: url("../img/image-three.png");
+    height: 600px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+    overflow: hidden;
+}
+
+
+/*.section-two{}*/
+.overlay-image{
+    text-align: center;
+    transition-timing-function: ease;
+    margin-top: 90px;
+}
+
+ .text-group{
+    color:white;
+    padding-left: 50px;
+    padding-top: 10px;
+    margin-top: 250px;
+
+
+  h2{
+    padding-bottom: 15px;
+    border-bottom: solid white 3px;
+    max-width: 180px;
+ 
+}
+
+ h5{
+    padding-top: 15px;
+    text-align: left;
+}
+
+ p{
+    max-width: 180px;
+    text-align: left;
+}
+}
+
+
+.carousel-indicators li {
+    border-radius:20px;
+    position: relative;
+    -ms-flex: 0 1 auto;
+    flex: 0 1 auto;
+    width: 8px;
+    height: 8px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    text-indent: -999px;
+    border: white solid 1px;
+}
+
+.carousel-indicators {
+    display: -ms-flexbox;
+    display: block;
+    bottom:50%;
+    left: 70%;
+    }
+
+
+/*FOOTER GROUP*/
+
+.footer-group{
+    height: 58px;
+
+
+
+ .fa-linkedin, .fa-facebook, .fa-instagram, .fa-twitter{
+    max-width: 40px;
+
+    }
+
+}
+
+.all-rights-reserved{
+   text-align: right;
+   font-size: 12px;
+   padding-right: 50px;
+   padding-bottom: 20px;
+
+
+}
+
+
+
+
+
